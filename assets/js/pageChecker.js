@@ -10,7 +10,7 @@ function checkPage() {
 
     if (validPages.includes(pageInput)) {
         // If the page exists, redirect to that page
-        window.location.href = `/${pageInput}`;
+        window.location.href = `/courts-of-bone/${pageInput}`;
     } else {
         // If the page does not exist, display an error message
         errorDiv.textContent = "Access denied. Page is either classified or does not exist. This attempt has been reported to your administrator.";
