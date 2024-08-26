@@ -1,7 +1,7 @@
 // List of valid page names
 const validPages = [
     "sample",
-    
+    "test",
 ];
 
 // Function to check if the entered page exists
