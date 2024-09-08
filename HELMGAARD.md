@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 COGITATOR CT10873-123877
 
 User login: inq348
@@ -5,7 +9,7 @@ User login: inq348
 C:\Users\inq348>start %omnisA%\explorer.exe “C:\Users\ing348\personeldata\HelmgardKrell
 
 
----..............................................................---
+---
 
 NAME: Krell Hemlgard VII
 
@@ -17,8 +21,7 @@ PHYSICAL TRAITS: 1,85 (sunken to 1,74) Light brown skin, black hairgrowth, bald,
 
 CHARACTERISTICS: Left handed. 30 % body augmentation ( left eye, entire right arm, left lover leg under the knee, + various cognitive implants) Aquila Tattoo right scapula, scar shaped like a tear on right kneecap. 
 
-
----..............................................................---
+---
 
 RELATIONSHIP STATUS: - Unmarried. No relationships other registered. 
 
@@ -31,19 +34,22 @@ Wealth: - [CLASSIFIED: VERMILLION]
 AFFILIATIONS: Ordo Heretics Askellon, High Inquisitor Berzia, Adeptus Astartes, Blood Angels. Numerous planetary affiliations on Hyrea, Juno and Desolleum. Numerous imperial agencies within Askellon sector. Numerous sector affiliations in Bhal, through relatives and family power. Also [CLASSIFIED: VERMILLION]
 
 
----..............................................................---
+---
 
 NOTES: Active in The Calixis Crussade [CLASSIFIED: VERMILLION]
 
 ACOLYTES OF NOTE: 
 
---->>--- Intteregator Dragul
---->>--- Intteregator Elspeth 
---->>--- Helios Mann
---->>--- Drake ”Darkhand” 
---->>--- Ylvet DeCard 
---->>--- Messino Tratore 
---->>--- Ominus-II 
---->>--- Liadra Corvar
+- Intteregator Dragul
+- Intteregator Elspeth 
+- Helios Mann
+- Drake ”Darkhand” 
+- Ylvet DeCard 
+- Messino Tratore 
+- Ominus-II 
+- Liadra Corvar
 
 Possible exploits: [CLASSIFIED: VERMILLION]
+
+---
+-
