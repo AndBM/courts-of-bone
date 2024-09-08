@@ -23,20 +23,20 @@ CHARACTERISTICS: Left handed. 30 % body augmentation ( left eye, entire right ar
 
 ---
 
-RELATIONSHIP STATUS: - Unmarried. No relationships other registered. 
+RELATIONSHIP STATUS: - Unmarried. No relationships registered. 
 
 RELATIVES OF NOTE: - Helmgaard Nobilis, Carnea Veretta (Bahl protectorate)
 
-PROFESSION: Lord Inquisitor, ordo Hereticus.
+PROFESSION AND TALENTS: Lord Inquisitor, ordo Hereticus. Famous for his grit, resolve [CLASSIFIED: VERMILLION]
 
 Wealth: - [CLASSIFIED: VERMILLION]
 
-AFFILIATIONS: Ordo Heretics Askellon, High Inquisitor Berzia, Adeptus Astartes, Blood Angels. Numerous planetary affiliations on Hyrea, Juno and Desolleum. Numerous imperial agencies within Askellon sector. Numerous sector affiliations in Bhal, through relatives and family power. Also [CLASSIFIED: VERMILLION]
+AFFILIATIONS: Ordo Heretics Askellon, High Inquisitor Berzia, Adeptus Astartes, Blood Angels. Rouge Trader House O'dryxial. Numerous planetary affiliations on Hyrea, Juno and Desolleum. Numerous imperial agencies within Askellon sector. Numerous sector affiliations in Bhal, through relatives and family power. Xanthite but [CLASSIFIED: VERMILLION]
 
 
 ---
 
-NOTES: Active in The Calixis Crussade [CLASSIFIED: VERMILLION]
+NOTES: Currently active in The Calixis Crussade. His powerbase is currently engaged in the internal strife of [CLASSIFIED: VERMILLION]
 
 ACOLYTES OF NOTE: 
 
