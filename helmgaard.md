@@ -6,12 +6,12 @@ COGITATOR CT10873-123877
 
 User login: inq348
 
-C:\Users\inq348>start %omnisA%\explorer.exe “C:\Users\ing348\personeldata\HelmgardKrell
+C:\Users\inq348>start %omnisA%\explorer.exe “C:\Users\ing348\personeldata\HelmgaardKrell
 
 
 ---
 
-NAME: Krell Hemlgard VII
+NAME: Krell Hemlgaard VII
 
 STATUS: Alive 
 
@@ -25,7 +25,7 @@ CHARACTERISTICS: Left handed. 30 % body augmentation ( left eye, entire right ar
 
 RELATIONSHIP STATUS: - Unmarried. No relationships other registered. 
 
-RELATIVES OF NOTE: - Helmgard Nobilis, Carnea Veretta (Bahl protectorate)
+RELATIVES OF NOTE: - Helmgaard Nobilis, Carnea Veretta (Bahl protectorate)
 
 PROFESSION: Lord Inquisitor, ordo Hereticus.
 
