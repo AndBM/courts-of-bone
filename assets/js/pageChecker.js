@@ -1,7 +1,6 @@
 // List of valid page names
 const validPages = [
     "sample",
-    "test",
     "helmgaard",
     "7",
 ];
