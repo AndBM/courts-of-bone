@@ -2,6 +2,7 @@
 const validPages = [
     "sample",
     "test",
+    "helmgaard",
 ];
 
 // Function to check if the entered page exists
