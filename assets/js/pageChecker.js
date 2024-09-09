@@ -3,6 +3,7 @@ const validPages = [
     "sample",
     "helmgaard",
     "7",
+    "bones",
 ];
 
 // Function to check if the entered page exists
