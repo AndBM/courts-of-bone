@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 Salm on Bones
 
 ---
