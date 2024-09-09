@@ -4,7 +4,7 @@ const validPages = [
     "helmgaard",
     "7",
     "bones",
-    "bones of the imperium.md",
+    "bones of the imperium",
 ];
 
 // Function to check if the entered page exists
